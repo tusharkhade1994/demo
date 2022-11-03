@@ -23,6 +23,7 @@ public class drop_down
 		//s.selectByVisibleText("Option3");
 		Thread.sleep(2000);
 		
+		System.out.println("this the push and pull method");
 		driver.close();
 	}
 	
